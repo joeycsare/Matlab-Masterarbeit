@@ -1,0 +1,63 @@
+﻿
+
+ Modellname       : BETT_VERTIKAL
+ KE-LINK-LISTE:
+ ******************
+
+Nr.  ID     Name                                 Typ             Unterdrück- RegenStatus             
+
+0001 000043 REF                                  GRUPPENKOPF                 Regeneriert                  
+0002 000001 BE_RECHTS                            BEZUGSEBENE                 Regeneriert                  
+0003 000005 BE_OBEN                              BEZUGSEBENE                 Regeneriert                  
+0004 000007 BE_VORNE                             BEZUGSEBENE                 Regeneriert                  
+0005 000010 ACS0                                 KOORDINATENSYST             Regeneriert                  
+0006 000012 B_X_ACHSE                            BEZUGSACHSE                 Regeneriert                  
+0007 000017 B_Y_ACHSE                            BEZUGSACHSE                 Regeneriert                  
+0008 000021 B_Z_ACHSE                            BEZUGSACHSE                 Regeneriert                  
+0009 000046 MINITEC_45X90X500.PRT                KOMPONENTE                  Regeneriert                  
+0010 000047 ADTM1                                BEZUGSEBENE                 Regeneriert                  
+0011 000050 MINITEC_45X90X500.PRT                KOMPONENTE                  Regeneriert                  
+0012 000051 MINITEC_45X90X100.PRT                KOMPONENTE                  Regeneriert                  
+0013 000056 MINITEC_45X90X100.PRT                KOMPONENTE                  Regeneriert                  
+0014 000062 MINITEC_45X90X500.PRT                KOMPONENTE                  Regeneriert                  
+0015 000064 MINITEC_45X90X500.PRT                KOMPONENTE                  Regeneriert                  
+0016 000066 MINITEC_MONTAGEWINKEL_90_GD-Z.PRT    KOMPONENTE                  Regeneriert                  
+0017 000072 MINITEC_MONTAGEWINKEL_90_GD-Z.PRT    KOMPONENTE                  Regeneriert                  
+0018 000080 MINITEC_MONTAGEWINKEL_90_GD-Z.PRT    KOMPONENTE                  Regeneriert                  
+0019 000086 MINITEC_MONTAGEWINKEL_90_GD-Z.PRT    KOMPONENTE                  Regeneriert                  
+0020 000092 MINITEC_MONTAGEWINKEL_90_GD-Z.PRT    KOMPONENTE                  Regeneriert                  
+0021 000098 MINITEC_MONTAGEWINKEL_90_GD-Z.PRT    KOMPONENTE                  Regeneriert                  
+0022 000104 MINITEC_MONTAGEWINKEL_90_GD-Z.PRT    KOMPONENTE                  Regeneriert                  
+0023 000110 MINITEC_MONTAGEWINKEL_90_GD-Z.PRT    KOMPONENTE                  Regeneriert                  
+0024 000113 BROFILBETT_270X19X350.PRT            KOMPONENTE                  Regeneriert                  
+0025 000120 UNTERLAGEN_VERTIKALE_PLATTE.PRT      KOMPONENTE                  Regeneriert                  
+0026 000124 UNTERLAGEN_VERTIKALE_PLATTE.PRT      KOMPONENTE                  Regeneriert                  
+0027 000126 UNTERLAGEN_VERTIKALE_PLATTE.PRT      KOMPONENTE                  Regeneriert                  
+0028 000128 UNTERLAGEN_VERTIKALE_PLATTE.PRT      KOMPONENTE                  Regeneriert                  
+0029 000130 UNTERLAGEN_VERTIKALE_PLATTE.PRT      KOMPONENTE                  Regeneriert                  
+0030 000132 UNTERLAGEN_VERTIKALE_PLATTE.PRT      KOMPONENTE                  Regeneriert                  
+0031 000141 IFX_SCHRAUBE                         GRUPPENKOPF                 Regeneriert                  
+0032 000135 ISO4762-M8X30-8_8.PRT                KOMPONENTE                  Regeneriert                  
+0033 000138 DINENISO7092-8.PRT                   KOMPONENTE                  Regeneriert                  
+0034 000148 IFX_SCHRAUBE_1                       GRUPPENKOPF                 Regeneriert                  
+0035 000142 ISO4762-M8X30-8_8.PRT                KOMPONENTE                  Regeneriert                  
+0036 000145 DINENISO7092-8.PRT                   KOMPONENTE                  Regeneriert                  
+0037 000155 IFX_SCHRAUBE_2                       GRUPPENKOPF                 Regeneriert                  
+0038 000149 ISO4762-M8X30-8_8.PRT                KOMPONENTE                  Regeneriert                  
+0039 000152 DINENISO7092-8.PRT                   KOMPONENTE                  Regeneriert                  
+0040 000162 IFX_SCHRAUBE_3                       GRUPPENKOPF                 Regeneriert                  
+0041 000156 ISO4762-M8X30-8_8.PRT                KOMPONENTE                  Regeneriert                  
+0042 000159 DINENISO7092-8.PRT                   KOMPONENTE                  Regeneriert                  
+0043 000169 IFX_SCHRAUBE_4                       GRUPPENKOPF                 Regeneriert                  
+0044 000163 ISO4762-M8X30-8_8.PRT                KOMPONENTE                  Regeneriert                  
+0045 000166 DINENISO7092-8.PRT                   KOMPONENTE                  Regeneriert                  
+0046 000176 IFX_SCHRAUBE_5                       GRUPPENKOPF                 Regeneriert                  
+0047 000170 ISO4762-M8X30-8_8.PRT                KOMPONENTE                  Regeneriert                  
+0048 000173 DINENISO7092-8.PRT                   KOMPONENTE                  Regeneriert                  
+0049 000177 MINITEC_GLEITMUTTER_M8.PRT           KOMPONENTE                  Regeneriert                  
+0050 000181 MINITEC_GLEITMUTTER_M8.PRT           KOMPONENTE                  Regeneriert                  
+0051 000183 MINITEC_GLEITMUTTER_M8.PRT           KOMPONENTE                  Regeneriert                  
+0052 000185 MINITEC_GLEITMUTTER_M8.PRT           KOMPONENTE                  Regeneriert                  
+0053 000187 MINITEC_GLEITMUTTER_M8.PRT           KOMPONENTE                  Regeneriert                  
+0054 000189 MINITEC_GLEITMUTTER_M8.PRT           KOMPONENTE                  Regeneriert                  
+
