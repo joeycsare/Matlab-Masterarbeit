@@ -1,0 +1,254 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Message Dialog: Warning
+!               : Datei minitec_270x19x405.pdf existiert bereits; trotzdem weiter?
+~ Activate `UI Message Dialog` `ok`
+!sket_eps       7.197766097
+!%CIPDF-Datei wird angelegt...
+!%CIPDF-Datei wurde erzeugt.
+~ Wheel `main_dlg_cur` `proe_win` 9 710 443 458752 512 2283 1171 2560 1440 63887
+~ Wheel `main_dlg_cur` `proe_win` 9 710 443 458752 0 2283 1171 2560 1440 63926
+~ Wheel `main_dlg_cur` `proe_win` 9 706 424 458752 1536 2283 1171 2560 1440 63979
+~ Wheel `main_dlg_cur` `proe_win` 9 680 362 393216 512 2283 1171 2560 1440 64305
+~ Wheel `main_dlg_cur` `proe_win` 9 672 360 393216 512 2283 1171 2560 1440 64326
+~ Wheel `main_dlg_cur` `proe_win` 9 659 356 393216 512 2283 1171 2560 1440 64347
+~ Wheel `main_dlg_cur` `proe_win` 9 631 347 393216 0 2283 1171 2560 1440 64402
+~ Wheel `main_dlg_cur` `proe_win` 9 631 347 393216 0 2283 1171 2560 1440 64678
+~ Wheel `main_dlg_cur` `proe_win` 9 631 347 393216 0 2283 1171 2560 1440 64731
+~ Wheel `main_dlg_cur` `proe_win` 9 949 869 458752 0 2283 1171 2560 1440 65853
+~ Wheel `main_dlg_cur` `proe_win` 9 946 865 458752 0 2283 1171 2560 1440 65971
+~ Activate `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh407412841.proe_win|.mcs29658718_mp|select_a\
+ll_check` 1
+!%CIBezugspunkte werden angezeigt.
+!%CIKoordinatensysteme werden angezeigt.
+~ Activate `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh407412841.proe_win|.mcs29658718_mp|select_a\
+ll_check` 0
+!%CIAchsen werden nicht angezeigt.
+!%CIBezugspunkte werden nicht angezeigt.
+!%CIKoordinatensysteme werden nicht angezeigt.
+!%CIBezugsebenen werden nicht angezeigt.
+!sket_eps       5.758212878
+~ Wheel `main_dlg_cur` `proe_win` 9 974 944 393216 0 2283 1171 2560 1440 68762
+~ Wheel `main_dlg_cur` `proe_win` 9 972 948 393216 1024 2283 1171 2560 1440 68805
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ DragEnter `main_dlg_cur` `proe_win` 5 77 301 1 0 4 \
+ 1\
+ `C:\\Users\\Samuel\\Resilio_Benutzer\\Hochschule_Kahrlsruhe_TW\\Semester 6\\E\
+ntwicklungsprojekt\\Fertigung\\Zeichnungen\\3_Z_minitec_270x19x405.pdf`
+~ DragOver `main_dlg_cur` `proe_win` 4 54 305 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 53 305 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 52 305 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 50 305 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 49 306 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 48 306 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 47 306 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 45 306 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 44 307 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 43 307 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 42 307 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 41 307 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 40 308 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 38 308 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 38 308 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 37 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 35 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 35 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 34 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 33 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 31 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 31 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 30 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 29 309 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 28 310 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 27 310 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 26 310 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 25 310 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 24 310 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 24 311 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 23 311 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 22 311 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 21 311 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 20 311 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 19 312 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 19 312 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 18 312 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 17 312 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 17 312 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 16 312 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 15 313 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 14 313 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 14 313 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 14 313 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 13 313 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 12 313 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 12 313 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 11 314 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 10 314 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 10 314 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 10 314 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 9 314 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 9 314 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 8 314 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 8 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 7 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 7 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 7 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 6 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 6 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 6 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 5 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 5 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 4 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 4 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 4 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 5 315 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 5 316 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 5 316 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 6 316 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 6 316 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 7 316 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 7 316 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 7 316 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 8 316 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 8 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 9 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 9 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 10 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 10 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 10 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 11 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 11 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 12 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 12 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 13 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 13 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 14 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 14 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 15 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 15 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 16 317 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 16 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 17 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 17 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 18 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 19 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 20 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 21 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 21 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 22 318 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 23 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 24 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 25 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 26 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 27 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 28 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 28 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 29 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 31 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 31 319 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 32 320 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 34 320 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 35 320 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 36 320 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 37 320 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 38 320 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 39 320 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 41 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 42 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 43 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 44 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 45 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 47 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 48 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 49 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 50 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 51 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 53 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 54 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 55 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 56 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 58 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 59 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 61 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 62 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 64 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 66 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 67 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 69 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 70 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 72 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 73 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 75 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 76 321 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 78 322 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 80 322 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 81 322 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 83 322 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 84 322 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 86 322 1 0
+~ DragLeave `main_dlg_cur` `proe_win` 4 86 322 1 0
+~ DragEnter `main_dlg_cur` `proe_win` 5 84 345 1 0 4 \
+ 1\
+ `C:\\Users\\Samuel\\Resilio_Benutzer\\Hochschule_Kahrlsruhe_TW\\Semester 6\\E\
+ntwicklungsprojekt\\Fertigung\\Zeichnungen\\3_Z_minitec_270x19x405.pdf`
+~ DragOver `main_dlg_cur` `proe_win` 4 70 349 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 66 350 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 63 351 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 59 352 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 56 353 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 52 355 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 48 356 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 44 357 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 41 358 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 37 360 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 33 362 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 29 362 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 26 364 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 22 365 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 18 367 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 14 368 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 10 369 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 6 371 1 0
+~ DragOver `main_dlg_cur` `proe_win` 4 2 372 1 0
+~ DragLeave `main_dlg_cur` `proe_win` 4 2 372 1 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 384 385 0 1 2283 1171 2560 1440 164426
+~ Move `main_dlg_cur` `proe_win` 9 384 385 0 1 2283 1171 2560 1440 164427
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 384 385 0 0 2283 1171 2560 1440 164456
+@ sel view 0
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.800000 0.000000 0
+@ sel view 3
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.800000 0.000000 0
+@ sel view 1
+ 1.420455 0.000000 0.000000 0.000000 1.420455 0.000000
+ 0.000000 0.000000 1.420455 314.202891 92.879720 -13.494318 0.800000 0.000000 0
+@ sel view 2
+ 1.420455 0.000000 0.000000 0.000000 0.000000 1.420455
+ 0.000000 -1.420455 0.000000 314.202891 771.110605 355.113636 0.800000 0.000000 0
+@ stack attr -1 -1  1
+@ sel stop
+@ sel stop
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdQuickExport` 
+! Message Dialog: Warning
+!               : Datei minitec_270x19x405.pdf existiert bereits; trotzdem weiter?
+~ Activate `UI Message Dialog` `ok`
+!sket_eps       7.197766097
+!%CIPDF-Datei wird angelegt...
+!%CIPDF-Datei wurde erzeugt.
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIGrundfenster kann nicht geschlossen werden.
+< 0 1.387852 2408 0 0 1171 2560 0 0 1440 13
+< 0 1.387852 2204 0 0 1171 2560 0 0 1440 13
+< 0 1.412741 2204 0 0 1192 2560 0 0 1440 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) wird beendet und nicht gespeicherte Arbeit geht verloren.
+!               : Möchten Sie das Programm wirklich beenden?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

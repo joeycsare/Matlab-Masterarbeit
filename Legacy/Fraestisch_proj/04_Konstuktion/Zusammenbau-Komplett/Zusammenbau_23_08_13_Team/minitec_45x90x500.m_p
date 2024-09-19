@@ -1,0 +1,46 @@
+﻿Masseneigenschaft von TEIL MINITEC_45X90X500
+
+VOLUMEN =  6.8310306e+05  MM^3
+FLÄCHENINHALT =  4.2560792e+05  MM^2
+DICHTE =  2.7679905e-08 TONNE / MM^3
+MASSE =  1.8908227e-02 TONNE 
+SCHWERPUNKT in Bezug auf den Koordinatenrahmen CS1:
+X   Y   Z    -4.5000000e+01 -2.2500000e+01  2.5000000e+02  MM
+
+Trägheit in Bezug auf Koordinatenrahmen CS1  (TONNE * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz  1.5892373e+03 -1.9144588e+01  2.1271756e+02
+Iyx Iyy Iyz -1.9144588e+01  1.6296969e+03  1.0635878e+02
+Izx Izy Izz  2.1271756e+02  1.0635878e+02  6.7563022e+01
+
+Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen CS1  (TONNE * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz  3.9790082e+02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  4.0964355e+02  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  1.9701571e+01
+
+HAUPTTRÄGHEITSMOMENT:  (TONNE * MM^2)
+I1  I2  I3   1.9701571e+01  3.9790082e+02  4.0964355e+02
+
+Rotationsmatrix von CS1 Orientierung auf Hauptachsen:
+       0.00000        1.00000        0.00000
+       0.00000        0.00000        1.00000
+       1.00000        0.00000        0.00000
+
+Rotationswinkel von CS1 Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z -90.000          0.000        -90.000 
+
+TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3 3.2279368e+01  1.4506479e+02  1.4718978e+02  MM
+
+---------------------------------------------
+
+MASSENEIGENSCHAFTEN DER KÖRPER DES TEILS
+(in Teileinheiten und dem Koordinatenrahmen CS1)
+
+   DICHTE             MASSE          SCHW.PKT.:  X        Y         Z
+
+                        Körper 1            MATERIAL:                          ALU_MINITEC
+         2.76799e-08  1.89082e-02 -4.50000e+01 -2.25000e+01  2.50000e+02

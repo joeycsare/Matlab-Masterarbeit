@@ -1,0 +1,128 @@
+﻿Masseneigenschaft von BAUGRUPPE GESAMTAUFBAU
+
+VOLUMEN =  4.5099452e+07  MM^3
+FLÄCHENINHALT =  3.9840082e+07  MM^2
+DURCHSCHNITTLICHE DICHTE =  7.8270820e-06 KILOGRAMM / MM^3
+MASSE =  3.5299711e+02 KILOGRAMM 
+SCHWERPUNKT in Bezug auf den Koordinatenrahmen _GESAMTAUFBAU:
+X   Y   Z    -6.7699125e+02  7.6183730e+02  1.2727869e+03  MM
+
+Trägheit in Bezug auf Koordinatenrahmen _GESAMTAUFBAU  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz  1.0900818e+09  1.8269548e+08  3.0764133e+08
+Iyx Iyy Iyz  1.8269548e+08  1.0229502e+09 -3.4235892e+08
+Izx Izy Izz  3.0764133e+08 -3.4235892e+08  6.2606070e+08
+
+Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _GESAMTAUFBAU  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz  3.1335314e+08  6.3468175e+05  3.4758656e+06
+Iyx Iyy Iyz  6.3468175e+05  2.8931504e+08 -7.2963253e+04
+Izx Izy Izz  3.4758656e+06 -7.2963253e+04  2.5939793e+08
+
+HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3   2.5917451e+08  2.8929918e+08  3.1359242e+08
+
+Rotationsmatrix von _GESAMTAUFBAU Orientierung auf Hauptachsen:
+      -0.06407       -0.02559       -0.99762
+       0.00376        0.99966       -0.02589
+       0.99794       -0.00541       -0.06395
+
+Rotationswinkel von _GESAMTAUFBAU Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z 157.961        -86.044        158.224 
+
+TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3 8.5686137e+02  9.0529063e+02  9.4253439e+02  MM
+
+---------------------------------------------
+
+Masseneigenschaften der Komponenten der Baugruppe
+(in Baugruppeneinheiten und dem Koordinatenrahmen _GESAMTAUFBAU)
+
+   DICHTE             MASSE          SCHW.PKT.:  X        Y         Z
+
+                    SEITENAUFBAU            MATERIAL:                              UNKNOWN
+         7.82708e-06  1.40261e+01 -6.20000e+02  0.00000e+00  1.08200e+03
+                    SEITENAUFBAU            MATERIAL:                              UNKNOWN
+         7.82708e-06  1.40261e+01  1.45000e+02  7.65000e+02  1.08200e+03
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01  8.49066e+01  6.00900e+01  9.80000e+02
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01  8.49066e+01  6.00900e+01  2.00000e+01
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01  8.49066e+01  6.00900e+01  2.18000e+03
+                    SEITENAUFBAU            MATERIAL:                              UNKNOWN
+         7.82708e-06  1.40261e+01 -6.20000e+02  1.53000e+03  1.08200e+03
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01  8.49100e+01  1.46991e+03  9.80000e+02
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01  8.49103e+01  1.46991e+03  2.18000e+03
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01  8.49100e+01  1.46991e+03  2.00000e+01
+                    AUFBAU_VORNE            MATERIAL:                              UNKNOWN
+         7.82708e-06  1.61301e+01 -1.38500e+03  7.65000e+02  1.19457e+03
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01 -1.32491e+03  1.46991e+03  2.18000e+03
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01 -1.32491e+03  1.46991e+03  9.80000e+02
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01 -1.32491e+03  1.46991e+03  2.00000e+01
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01 -1.32491e+03  6.00937e+01  2.18000e+03
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01 -1.32491e+03  6.00935e+01  9.80000e+02
+              VERBINDUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  3.14384e-01 -1.32491e+03  6.00935e+01  2.00000e+01
+                     STAHLPLATTE            MATERIAL:                                STEEL
+         7.82708e-06  3.66963e+00 -1.33052e+03  1.47552e+03  4.90000e+02
+                     STAHLPLATTE            MATERIAL:                                STEEL
+         7.82708e-06  3.66963e+00 -1.33052e+03  5.44789e+01  4.90000e+02
+                     STAHLPLATTE            MATERIAL:                                STEEL
+         7.82708e-06  3.66963e+00  9.05211e+01  5.44789e+01  4.90000e+02
+                     STAHLPLATTE            MATERIAL:                                STEEL
+         7.82708e-06  3.66963e+00  9.05211e+01  1.47552e+03  4.90000e+02
+                STAHLPLATTE_LANG            MATERIAL:                                STEEL
+         7.82708e-06  4.56832e+00 -1.33052e+03  1.47552e+03  1.59000e+03
+                STAHLPLATTE_LANG            MATERIAL:                                STEEL
+         7.82708e-06  4.56832e+00 -1.33052e+03  5.44789e+01  1.59000e+03
+                STAHLPLATTE_LANG            MATERIAL:                                STEEL
+         7.82708e-06  4.56832e+00  9.05211e+01  5.44789e+01  1.59000e+03
+                STAHLPLATTE_LANG            MATERIAL:                                STEEL
+         7.82708e-06  4.56832e+00  9.05211e+01  1.47552e+03  1.59000e+03
+        RECHTECKSROHR_40_20_1510            MATERIAL:                                STEEL
+         7.82708e-06  2.64743e+00 -6.15000e+02  7.65000e+02  2.19000e+03
+               STAHLPLATTE_GROSS            MATERIAL:                                STEEL
+         7.82708e-06  1.89923e+01 -6.20113e+02  1.54100e+03  4.90000e+02
+               STAHLPLATTE_GROSS            MATERIAL:                                STEEL
+         7.82708e-06  1.89923e+01  1.56000e+02  7.65113e+02  4.90000e+02
+               STAHLPLATTE_GROSS            MATERIAL:                                STEEL
+         7.82708e-06  1.89923e+01 -6.20113e+02 -1.10000e+01  4.90000e+02
+               STAHLPLATTE_GROSS            MATERIAL:                                STEEL
+         7.82708e-06  1.89923e+01 -1.39600e+03  7.64887e+02  4.90000e+02
+          STAHLPLATTE_SEITE_OBEN            MATERIAL:                                STEEL
+         7.82708e-06  2.36434e+01 -6.20113e+02  1.54100e+03  1.59000e+03
+          STAHLPLATTE_SEITE_OBEN            MATERIAL:                                STEEL
+         7.82708e-06  2.36434e+01  1.56000e+02  7.64887e+02  1.59000e+03
+          STAHLPLATTE_SEITE_OBEN            MATERIAL:                                STEEL
+         7.82708e-06  2.36434e+01 -6.20113e+02 -1.10000e+01  1.59000e+03
+               STAHLPLATTE_KLEIN            MATERIAL:                                STEEL
+         7.82708e-06  4.94186e+00 -1.39600e+03  7.64887e+02  2.07250e+03
+                          DECKEL            MATERIAL:                                STEEL
+         7.82708e-06  3.72752e+01 -6.20182e+02  7.64818e+02  2.20100e+03
+                DECKUNG_ZYLINDER            MATERIAL:                                STEEL
+         7.82708e-06  1.12084e+01 -1.19589e+03  1.36112e+02  1.20000e+03
+          DECKUNG_ZYLINDER_LINKS            MATERIAL:                                STEEL
+         7.82708e-06  9.32988e+00 -1.23392e+03  1.40192e+03  1.20000e+03
+             BEFESTIGUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  2.20034e-01 -1.12526e+03  1.47683e+03  1.89500e+03
+             BEFESTIGUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  2.20034e-01 -1.12526e+03  1.47683e+03  1.25500e+03
+             BEFESTIGUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  2.20034e-01 -1.06526e+03  5.31688e+01  1.89500e+03
+             BEFESTIGUNGSELEMENT            MATERIAL:                                STEEL
+         7.82708e-06  2.20034e-01 -1.06526e+03  5.31688e+01  1.25500e+03
+                           LAMPE            MATERIAL:                                STEEL
+         7.82708e-06  2.24410e+01 -1.04490e+03  5.55000e+01  1.56250e+03
+                           LAMPE            MATERIAL:                                STEEL
+         7.82708e-06  2.24410e+01 -1.10490e+03  1.47450e+03  1.56250e+03

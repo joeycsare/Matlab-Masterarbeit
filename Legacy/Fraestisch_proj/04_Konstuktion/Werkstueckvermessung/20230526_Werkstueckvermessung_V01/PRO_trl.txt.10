@@ -1,0 +1,269 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIGrundfenster kann nicht geschlossen werden.
+< 0 0.952889 1750 0 0 804 1920 0 0 1080 13
+< 0 0.952889 1593 0 0 804 1920 0 0 1080 13
+~ Command `ProCmdModelEraseNotDisp` 
+~ Activate `file_erase_nd` `ok_pb`
+!%CIAlle nicht angezeigten Objekte wurden aus der Sitzung gelöscht.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `Cancel`
+~ Command `ProCmdModelEraseNotDisp` 
+!%CIAlle Objekte in Sitzung werden z.Z. angezeigt; kein Objekt wird aus der Sitzung gelöscht.
+~ Command `ProCmdSessionChangeDir` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `SAB_..|Studium|6-Semester_SS23|5_Entwicklungsprojekt|Fräsen mit Roboter_Proj\
+ektordner|Werkstückvermessung|`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.List_table:<NULL>`
+~ Activate `file_open` `SAB_..|Studium|6-Semester_SS23|5_Entwicklungsprojekt|Fräsen mit Roboter_Proj\
+ektordner|`
+~ Select `file_open` `Ph_list.List_table` 1 `Werkzeugspanner`
+~ Activate `file_open` `Ph_list.List_table` 1 `Werkzeugspanner`
+~ Select `file_open` `Ph_list.List_table` 1 `Creo`
+~ Activate `file_open` `Ph_list.List_table` 1 `Creo`
+~ Select `file_open` `Ph_list.List_table` 1 `20230524_5`
+~ Activate `file_open` `Ph_list.List_table` 1 `20230524_5`
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CIErfolgreich zu Verzeichnis C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5 geändert.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.List_table` 1 `werkstueckspanner.asm`
+~ Activate `file_open` `Ph_list.List_table` 1 `werkstueckspanner.asm`
+!Command ProCmdModelOpenExe was pushed from the software.
+!30-Jun-23 13:19:40  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\werkstueckspanner.asm.43
+!30-Jun-23 13:19:41  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\grundplatte.prt.19
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\grundplatte.prt.19
+!30-Jun-23 13:19:41  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\kraft-momenten-sensor.prt.6
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\kraft-momenten-sensor.prt.6
+!30-Jun-23 13:19:41  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\zwischenplatte.prt.23
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\zwischenplatte.prt.23
+!30-Jun-23 13:19:41  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\schraubstock_clamp-d80.prt.12
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\schraubstock_clamp-d80.prt.12
+!30-Jun-23 13:19:41  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\iso4017-m8x20-8_8.prt.1
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\iso4017-m8x20-8_8.prt.1
+!30-Jun-23 13:19:41  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\dineniso7092-8.prt.1
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\dineniso7092-8.prt.1
+!30-Jun-23 13:19:41  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\iso2009-m6x10-5_8.prt.1
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\iso2009-m6x10-5_8.prt.1
+!30-Jun-23 13:19:41  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\iso2009-m5x12-5_8.prt.1
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\iso2009-m5x12-5_8.prt.1
+!%CDZeile 3 Baugruppe WERKSTUECKSPANNER: Modell hat sich seit Masseneigenschaftsberechnung geändert; muss u.U. neu berechnet werden.
+!30-Jun-23 13:19:41  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\werkstueckspanner.asm.43
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+< 0 0.952889 1611 0 0 804 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `node10`
+!Expanded Gruppe PL-F
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node18`
+!Muster 6 von IFX_SCHRAUBE
+~ Command `ifx_menu_screw_redefine@Minitoolbar@PopupMenuTree` 
+!%CIVerbindung umdefinieren.
+!%CPVerbindung auswählen.
+!%CPPosition der Schraubverbindung auswählen.
+~ Activate `screw_dialog` `pb_Cancel`
+!%CEAktion von Benutzer abgebrochen.
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node17`
+!Muster 4 von ISO2009-M6X10-5_8.PRT
+~ Command `ifx_menu_screw_redefine@Minitoolbar@PopupMenuTree` 
+!%CIVerbindung umdefinieren.
+!%CPVerbindung auswählen.
+!%CPPosition der Schraubverbindung auswählen.
+~ FocusOut `screw_dialog` `screwtype_comboex`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 882 147 0 2 1611 804 1920 1080 205460
+~ Move `main_dlg_cur` `proe_win` 9 882 150 0 1026 1611 804 1920 1080 205462
+~ Move `main_dlg_cur` `proe_win` 9 882 153 0 1026 1611 804 1920 1080 205476
+~ Move `main_dlg_cur` `proe_win` 9 882 155 0 1026 1611 804 1920 1080 205493
+~ Move `main_dlg_cur` `proe_win` 9 883 156 0 1538 1611 804 1920 1080 205541
+~ Move `main_dlg_cur` `proe_win` 9 883 157 0 1026 1611 804 1920 1080 205560
+~ Move `main_dlg_cur` `proe_win` 9 883 158 0 1026 1611 804 1920 1080 205579
+~ Move `main_dlg_cur` `proe_win` 9 883 159 0 1026 1611 804 1920 1080 205596
+~ Move `main_dlg_cur` `proe_win` 9 883 160 0 1026 1611 804 1920 1080 205612
+~ Move `main_dlg_cur` `proe_win` 9 883 161 0 1026 1611 804 1920 1080 205627
+~ Move `main_dlg_cur` `proe_win` 9 883 162 0 1026 1611 804 1920 1080 205643
+~ Move `main_dlg_cur` `proe_win` 9 883 163 0 1026 1611 804 1920 1080 205655
+~ Move `main_dlg_cur` `proe_win` 9 883 164 0 1026 1611 804 1920 1080 205666
+~ Move `main_dlg_cur` `proe_win` 9 883 165 0 1026 1611 804 1920 1080 205678
+~ Move `main_dlg_cur` `proe_win` 9 883 166 0 1026 1611 804 1920 1080 205688
+~ Move `main_dlg_cur` `proe_win` 9 883 167 0 1026 1611 804 1920 1080 205699
+~ Move `main_dlg_cur` `proe_win` 9 883 168 0 1026 1611 804 1920 1080 205709
+~ Move `main_dlg_cur` `proe_win` 9 883 169 0 1026 1611 804 1920 1080 205723
+~ Move `main_dlg_cur` `proe_win` 9 883 170 0 1026 1611 804 1920 1080 205735
+~ Move `main_dlg_cur` `proe_win` 9 883 173 0 1026 1611 804 1920 1080 205748
+~ Move `main_dlg_cur` `proe_win` 9 883 175 0 1026 1611 804 1920 1080 205758
+~ Move `main_dlg_cur` `proe_win` 9 883 176 0 1026 1611 804 1920 1080 205769
+~ Move `main_dlg_cur` `proe_win` 9 883 177 0 1026 1611 804 1920 1080 205779
+~ Move `main_dlg_cur` `proe_win` 9 883 179 0 1026 1611 804 1920 1080 205789
+~ Move `main_dlg_cur` `proe_win` 9 883 180 0 1026 1611 804 1920 1080 205800
+~ Move `main_dlg_cur` `proe_win` 9 883 182 0 1026 1611 804 1920 1080 205809
+~ Move `main_dlg_cur` `proe_win` 9 883 183 0 1026 1611 804 1920 1080 205836
+~ Move `main_dlg_cur` `proe_win` 9 883 184 0 1026 1611 804 1920 1080 205852
+~ Move `main_dlg_cur` `proe_win` 9 883 185 0 1026 1611 804 1920 1080 205884
+~ Move `main_dlg_cur` `proe_win` 9 883 186 0 1026 1611 804 1920 1080 205896
+~ Move `main_dlg_cur` `proe_win` 9 882 186 0 514 1611 804 1920 1080 205908
+~ Move `main_dlg_cur` `proe_win` 9 882 187 0 1026 1611 804 1920 1080 205919
+~ Move `main_dlg_cur` `proe_win` 9 882 188 0 1026 1611 804 1920 1080 205932
+~ Move `main_dlg_cur` `proe_win` 9 882 189 0 1026 1611 804 1920 1080 205944
+~ Move `main_dlg_cur` `proe_win` 9 882 190 0 1026 1611 804 1920 1080 205965
+~ Move `main_dlg_cur` `proe_win` 9 882 191 0 1026 1611 804 1920 1080 205980
+~ Move `main_dlg_cur` `proe_win` 9 882 192 0 1026 1611 804 1920 1080 206013
+~ Move `main_dlg_cur` `proe_win` 9 882 193 0 1026 1611 804 1920 1080 206044
+~ Move `main_dlg_cur` `proe_win` 9 882 195 0 1026 1611 804 1920 1080 206060
+~ Move `main_dlg_cur` `proe_win` 9 881 196 0 1538 1611 804 1920 1080 206073
+~ Move `main_dlg_cur` `proe_win` 9 881 198 0 1026 1611 804 1920 1080 206086
+~ Move `main_dlg_cur` `proe_win` 9 881 200 0 1026 1611 804 1920 1080 206097
+~ Move `main_dlg_cur` `proe_win` 9 881 201 0 1026 1611 804 1920 1080 206110
+~ Move `main_dlg_cur` `proe_win` 9 881 202 0 1026 1611 804 1920 1080 206124
+~ Move `main_dlg_cur` `proe_win` 9 881 203 0 1026 1611 804 1920 1080 206140
+~ Move `main_dlg_cur` `proe_win` 9 881 204 0 1026 1611 804 1920 1080 206156
+~ Move `main_dlg_cur` `proe_win` 9 881 205 0 1026 1611 804 1920 1080 206192
+~ Move `main_dlg_cur` `proe_win` 9 881 207 0 1026 1611 804 1920 1080 206205
+~ Move `main_dlg_cur` `proe_win` 9 881 208 0 1026 1611 804 1920 1080 206219
+~ Move `main_dlg_cur` `proe_win` 9 881 209 0 1026 1611 804 1920 1080 206231
+~ Move `main_dlg_cur` `proe_win` 9 881 210 0 1026 1611 804 1920 1080 206269
+~ Move `main_dlg_cur` `proe_win` 9 881 211 0 1026 1611 804 1920 1080 206285
+~ Move `main_dlg_cur` `proe_win` 9 882 211 0 514 1611 804 1920 1080 206297
+~ Move `main_dlg_cur` `proe_win` 9 883 213 0 1538 1611 804 1920 1080 206310
+~ Move `main_dlg_cur` `proe_win` 9 884 214 0 1538 1611 804 1920 1080 206322
+~ Move `main_dlg_cur` `proe_win` 9 884 215 0 1026 1611 804 1920 1080 206334
+~ Move `main_dlg_cur` `proe_win` 9 885 216 0 1538 1611 804 1920 1080 206348
+~ Move `main_dlg_cur` `proe_win` 9 885 217 0 1026 1611 804 1920 1080 206363
+~ Move `main_dlg_cur` `proe_win` 9 887 218 0 1538 1611 804 1920 1080 206379
+~ Move `main_dlg_cur` `proe_win` 9 888 218 0 514 1611 804 1920 1080 206389
+~ Move `main_dlg_cur` `proe_win` 9 889 219 0 1538 1611 804 1920 1080 206400
+~ Move `main_dlg_cur` `proe_win` 9 889 220 0 1026 1611 804 1920 1080 206413
+~ Move `main_dlg_cur` `proe_win` 9 890 221 0 1538 1611 804 1920 1080 206427
+~ Move `main_dlg_cur` `proe_win` 9 890 223 0 1026 1611 804 1920 1080 206437
+~ Move `main_dlg_cur` `proe_win` 9 892 225 0 1538 1611 804 1920 1080 206448
+~ Move `main_dlg_cur` `proe_win` 9 892 226 0 1026 1611 804 1920 1080 206459
+~ Move `main_dlg_cur` `proe_win` 9 892 227 0 1026 1611 804 1920 1080 206470
+~ Move `main_dlg_cur` `proe_win` 9 893 228 0 1538 1611 804 1920 1080 206481
+~ Move `main_dlg_cur` `proe_win` 9 893 229 0 1026 1611 804 1920 1080 206493
+~ Move `main_dlg_cur` `proe_win` 9 893 230 0 1026 1611 804 1920 1080 206508
+~ Move `main_dlg_cur` `proe_win` 9 894 231 0 1538 1611 804 1920 1080 206519
+~ Move `main_dlg_cur` `proe_win` 9 894 232 0 1026 1611 804 1920 1080 206531
+~ Move `main_dlg_cur` `proe_win` 9 894 234 0 1026 1611 804 1920 1080 206544
+~ Move `main_dlg_cur` `proe_win` 9 894 235 0 1026 1611 804 1920 1080 206557
+~ Move `main_dlg_cur` `proe_win` 9 894 236 0 1026 1611 804 1920 1080 206571
+~ Move `main_dlg_cur` `proe_win` 9 893 237 0 1538 1611 804 1920 1080 206587
+~ Move `main_dlg_cur` `proe_win` 9 893 238 0 1026 1611 804 1920 1080 206603
+~ Move `main_dlg_cur` `proe_win` 9 893 239 0 1026 1611 804 1920 1080 206614
+~ Move `main_dlg_cur` `proe_win` 9 892 240 0 1538 1611 804 1920 1080 206625
+~ Move `main_dlg_cur` `proe_win` 9 892 241 0 1026 1611 804 1920 1080 206637
+~ Move `main_dlg_cur` `proe_win` 9 891 242 0 1538 1611 804 1920 1080 206651
+~ Move `main_dlg_cur` `proe_win` 9 890 242 0 514 1611 804 1920 1080 206662
+~ Move `main_dlg_cur` `proe_win` 9 890 243 0 1026 1611 804 1920 1080 206675
+~ Move `main_dlg_cur` `proe_win` 9 889 244 0 1538 1611 804 1920 1080 206690
+~ Move `main_dlg_cur` `proe_win` 9 887 246 0 1538 1611 804 1920 1080 206704
+~ Move `main_dlg_cur` `proe_win` 9 886 247 0 1538 1611 804 1920 1080 206731
+~ Move `main_dlg_cur` `proe_win` 9 885 248 0 1538 1611 804 1920 1080 206743
+~ Move `main_dlg_cur` `proe_win` 9 884 249 0 1538 1611 804 1920 1080 206756
+~ Move `main_dlg_cur` `proe_win` 9 883 249 0 514 1611 804 1920 1080 206768
+~ Move `main_dlg_cur` `proe_win` 9 882 249 0 514 1611 804 1920 1080 206831
+~ Move `main_dlg_cur` `proe_win` 9 881 249 0 514 1611 804 1920 1080 206910
+~ Move `main_dlg_cur` `proe_win` 9 880 249 0 514 1611 804 1920 1080 206958
+~ Move `main_dlg_cur` `proe_win` 9 880 248 0 1026 1611 804 1920 1080 206990
+~ Move `main_dlg_cur` `proe_win` 9 879 248 0 514 1611 804 1920 1080 207041
+~ Move `main_dlg_cur` `proe_win` 9 879 247 0 1026 1611 804 1920 1080 207062
+~ Move `main_dlg_cur` `proe_win` 9 878 246 0 1538 1611 804 1920 1080 207076
+~ Move `main_dlg_cur` `proe_win` 9 877 245 0 1538 1611 804 1920 1080 207101
+~ Move `main_dlg_cur` `proe_win` 9 877 244 0 1026 1611 804 1920 1080 207117
+~ Move `main_dlg_cur` `proe_win` 9 876 243 0 1538 1611 804 1920 1080 207128
+~ Move `main_dlg_cur` `proe_win` 9 876 242 0 1026 1611 804 1920 1080 207141
+~ Move `main_dlg_cur` `proe_win` 9 876 241 0 1026 1611 804 1920 1080 207153
+~ Move `main_dlg_cur` `proe_win` 9 876 240 0 1026 1611 804 1920 1080 207166
+~ Move `main_dlg_cur` `proe_win` 9 876 239 0 1026 1611 804 1920 1080 207177
+~ Move `main_dlg_cur` `proe_win` 9 876 238 0 1026 1611 804 1920 1080 207190
+~ Move `main_dlg_cur` `proe_win` 9 876 237 0 1026 1611 804 1920 1080 207203
+~ Move `main_dlg_cur` `proe_win` 9 876 236 0 1026 1611 804 1920 1080 207214
+~ Move `main_dlg_cur` `proe_win` 9 876 235 0 1026 1611 804 1920 1080 207229
+~ Move `main_dlg_cur` `proe_win` 9 876 234 0 1026 1611 804 1920 1080 207245
+~ Move `main_dlg_cur` `proe_win` 9 876 233 0 1026 1611 804 1920 1080 207261
+~ Move `main_dlg_cur` `proe_win` 9 876 232 0 1026 1611 804 1920 1080 207295
+~ Move `main_dlg_cur` `proe_win` 9 876 231 0 1026 1611 804 1920 1080 207309
+~ Move `main_dlg_cur` `proe_win` 9 876 230 0 1026 1611 804 1920 1080 207323
+~ Move `main_dlg_cur` `proe_win` 9 876 229 0 1026 1611 804 1920 1080 207342
+~ Move `main_dlg_cur` `proe_win` 9 876 228 0 1026 1611 804 1920 1080 207356
+~ Move `main_dlg_cur` `proe_win` 9 876 227 0 1026 1611 804 1920 1080 207367
+~ Move `main_dlg_cur` `proe_win` 9 876 226 0 1026 1611 804 1920 1080 207377
+~ Move `main_dlg_cur` `proe_win` 9 876 225 0 1026 1611 804 1920 1080 207394
+~ Move `main_dlg_cur` `proe_win` 9 876 224 0 1026 1611 804 1920 1080 207406
+~ Move `main_dlg_cur` `proe_win` 9 877 223 0 1538 1611 804 1920 1080 207422
+~ Move `main_dlg_cur` `proe_win` 9 877 222 0 1026 1611 804 1920 1080 207437
+~ Move `main_dlg_cur` `proe_win` 9 877 221 0 1026 1611 804 1920 1080 207453
+~ Move `main_dlg_cur` `proe_win` 9 877 220 0 1026 1611 804 1920 1080 207470
+~ Move `main_dlg_cur` `proe_win` 9 878 219 0 1538 1611 804 1920 1080 207501
+~ Move `main_dlg_cur` `proe_win` 9 878 218 0 1026 1611 804 1920 1080 207518
+~ Move `main_dlg_cur` `proe_win` 9 878 217 0 1026 1611 804 1920 1080 207533
+~ Move `main_dlg_cur` `proe_win` 9 879 216 0 1538 1611 804 1920 1080 207549
+~ Move `main_dlg_cur` `proe_win` 9 880 215 0 1538 1611 804 1920 1080 207565
+~ Move `main_dlg_cur` `proe_win` 9 880 214 0 1026 1611 804 1920 1080 207581
+~ Move `main_dlg_cur` `proe_win` 9 880 213 0 1026 1611 804 1920 1080 207591
+~ Move `main_dlg_cur` `proe_win` 9 881 212 0 1538 1611 804 1920 1080 207613
+~ Move `main_dlg_cur` `proe_win` 9 881 211 0 1026 1611 804 1920 1080 207630
+~ Move `main_dlg_cur` `proe_win` 9 882 211 0 514 1611 804 1920 1080 207662
+~ Move `main_dlg_cur` `proe_win` 9 883 210 0 1538 1611 804 1920 1080 207678
+~ Move `main_dlg_cur` `proe_win` 9 883 209 0 1026 1611 804 1920 1080 207694
+~ Move `main_dlg_cur` `proe_win` 9 883 208 0 1026 1611 804 1920 1080 207710
+~ Move `main_dlg_cur` `proe_win` 9 884 208 0 514 1611 804 1920 1080 207725
+~ Move `main_dlg_cur` `proe_win` 9 884 207 0 1026 1611 804 1920 1080 207759
+~ Move `main_dlg_cur` `proe_win` 9 885 206 0 1538 1611 804 1920 1080 207775
+~ Move `main_dlg_cur` `proe_win` 9 885 205 0 1026 1611 804 1920 1080 207823
+~ Move `main_dlg_cur` `proe_win` 9 886 204 0 1538 1611 804 1920 1080 207858
+~ Move `main_dlg_cur` `proe_win` 9 886 203 0 1026 1611 804 1920 1080 208312
+~ Move `main_dlg_cur` `proe_win` 9 886 202 0 1026 1611 804 1920 1080 208345
+~ Move `main_dlg_cur` `proe_win` 9 886 201 0 1026 1611 804 1920 1080 208360
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 886 201 0 0 1611 804 1920 1080 209145
+~ FocusIn `screw_dialog` `screwtype_comboex`
+~ Activate `screw_dialog` `pb_Cancel`
+!%CEAktion von Benutzer abgebrochen.
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node16`
+!Muster 3 von ISO2009-M5X12-5_8.PRT
+~ Command `ifx_menu_screw_redefine@Minitoolbar@PopupMenuTree` 
+!%CIVerbindung umdefinieren.
+!%CPVerbindung auswählen.
+!%CPPosition der Schraubverbindung auswählen.
+~ Wheel `main_dlg_cur` `proe_win` 9 880 293 393216 0 1611 804 1920 1080 214544
+~ Wheel `main_dlg_cur` `proe_win` 9 854 293 393216 0 1611 804 1920 1080 214608
+~ Wheel `main_dlg_cur` `proe_win` 9 853 293 393216 0 1611 804 1920 1080 214688
+~ Wheel `main_dlg_cur` `proe_win` 9 853 293 393216 0 1611 804 1920 1080 214769
+~ Wheel `main_dlg_cur` `proe_win` 9 958 223 458752 0 1611 804 1920 1080 215087
+~ Wheel `main_dlg_cur` `proe_win` 9 965 219 458752 0 1611 804 1920 1080 215136
+~ Wheel `main_dlg_cur` `proe_win` 9 965 219 393216 0 1611 804 1920 1080 215155
+~ Wheel `main_dlg_cur` `proe_win` 9 967 219 458752 0 1611 804 1920 1080 215183
+~ Activate `screw_dialog` `pb_Cancel`
+!%CEAktion von Benutzer abgebrochen.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1258 492 0 1 1611 804 1920 1080 226853
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1258 492 0 0 1611 804 1920 1080 226916
+@ sel view 0
+ 3.127582 0.004984 -0.650096 -0.440054 2.367547 -2.098927
+ 0.478542 2.144555 2.318685 499.705944 282.189749 -2117.635834 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIGrundfenster kann nicht geschlossen werden.
+< 0 0.952889 1750 0 0 804 1920 0 0 1080 13
+< 0 0.952889 1593 0 0 804 1920 0 0 1080 13
+~ Command `ProCmdModelEraseNotDisp` 
+~ Activate `file_erase_nd` `ok_pb`
+!%CIAlle nicht angezeigten Objekte wurden aus der Sitzung gelöscht.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) wird beendet und nicht gespeicherte Arbeit geht verloren.
+!               : Möchten Sie das Programm wirklich beenden?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

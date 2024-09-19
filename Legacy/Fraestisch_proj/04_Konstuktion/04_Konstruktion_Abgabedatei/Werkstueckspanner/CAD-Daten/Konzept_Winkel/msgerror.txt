@@ -1,0 +1,80 @@
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+Illegal conversion character
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+Illegal conversion character
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+Illegal conversion character
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+Illegal conversion character
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+Illegal conversion character
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+Illegal conversion character
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+Illegal conversion character
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+Illegal conversion character
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+Illegal conversion character
+   ifx_translation.txt(851): Scheiben vierkant, keilförmig 14%, für HV-Verbindungen an I-Profilen
+                                                               ^
+
+**** ifx_translation.txt Compile Errors ****
+Missing argument index in format
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^
+Illegal conversion character
+   ifx_translation.txt(859): Scheiben vierkant, keilförmig 8%, für HV-Verbindungen an U-Profilen
+                                                              ^

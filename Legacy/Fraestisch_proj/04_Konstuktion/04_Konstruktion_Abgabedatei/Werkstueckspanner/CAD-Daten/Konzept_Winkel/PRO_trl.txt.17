@@ -1,0 +1,39 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdResumeFeat.
+!%CDZeile 3 Baugruppe WERKSTUECKSPANNER: Modell hat sich seit Masseneigenschaftsberechnung geändert; muss u.U. neu berechnet werden.
+! 3-Aug-23 21:14:14  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\zwischenplatte_sensor_bof.prt.1
+! 3-Aug-23 21:14:14  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\zwischenplatte_sensor_bof.prt.1
+! 3-Aug-23 21:14:14  Start C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\schraubstock_bof_bb110.prt.1
+! 3-Aug-23 21:14:14  End   C:\Users\david\Documents\Studium\6-Semester_SS23\5_Entwicklungsprojekt\Fräsen mit Roboter_Projektordner\Werkzeugspanner\Creo\20230524_5\schraubstock_bof_bb110.prt.1
+!ProgressBarDlg: Regen Started
+!%CIWERKSTUECKSPANNER Regenerierung beendet mit 26 unterdrückten KE(s) oder Komponente(n).
+!ProgressBarDlg: Regen Completed
+!%CITeil 'GRUNDPLATTE' seit letzter Regenerierung nicht verändert.
+!%CITeil 'KRAFT-MOMENTEN-SENSOR' seit letzter Regenerierung nicht verändert.
+!%CITeil 'ZWISCHENPLATTE_SENSOR_BOF' seit letzter Regenerierung nicht verändert.
+!%CITeil 'SCHRAUBSTOCK_BOF_BB110' seit letzter Regenerierung nicht verändert.
+!%CITeil 'ZWISCHENPLATTE' seit letzter Regenerierung nicht verändert.
+!%CITeil 'SCHRAUBSTOCK_CLAMP-D80' seit letzter Regenerierung nicht verändert.
+!%CITeil 'ISO4017-M8X20-8_8' seit letzter Regenerierung nicht verändert.
+!%CITeil 'DINENISO7092-8' seit letzter Regenerierung nicht verändert.
+!%CITeil 'ISO2009-M6X10-5_8' seit letzter Regenerierung nicht verändert.
+!%CITeil 'ISO2009-M5X12-5_8' seit letzter Regenerierung nicht verändert.
+!Undo: added rec_id 1693 type 5302 
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIGrundfenster kann nicht geschlossen werden.
+< 0 1.207704 2199 0 0 1019 1920 0 0 1080 13
+< 0 1.207704 2001 0 0 1019 1920 0 0 1080 13
+~ Command `ProCmdModelEraseNotDisp` 
+~ Activate `file_erase_nd` `ok_pb`
+!%CIAlle nicht angezeigten Objekte wurden aus der Sitzung gelöscht.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) wird beendet und nicht gespeicherte Arbeit geht verloren.
+!               : Möchten Sie das Programm wirklich beenden?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
