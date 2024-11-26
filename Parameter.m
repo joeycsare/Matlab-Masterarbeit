@@ -1,35 +1,43 @@
-% Achssteifigkeiten
-% Harmonic Drive HFUC40-2UH
-% --> 67 Nm/arcmin   --> 1447200 Nm/ 360°(2Pi)   ---> 230.329 Nm/ 1 
-%stiff = 4020; % Nm/deg
-
-
-%Steifigkeiten aus Optimierung mit Parameteridentifikation_daten.m
-%     j1_stiff = 37067;
-%     j2_stiff = 55569;
-%     j3_stiff = 50089;
-%     j4_stiff = 48839;
-%     j5_stiff = 50462;
-%     j6_stiff = 30863.22; %Wert wurde um 30000 angepasst.
-
-
-% Gelenkwinkel = e1_joint;
-% Anregung = e1_Anregung;
-
 %Steifigkeiten aus Optimierung [Nm/deg]
-    j1_stiff = 1213.5
-    j2_stiff = 1219.6
-    j3_stiff = 1019.1
-    j4_stiff = 1130
-    j5_stiff = 986.66
-    j6_stiff = 505.32
+Spring_1_J1=1001
+Damper_1_J1=0.67
+Spring_J1_across=2001
+Damper_J1_across=0.64
 
+Spring_1_J2=16399
+Damper_1_J2=0.62
+Spring_J2_across=31004
+Damper_J2_across=0.64
 
-%frei gewählt
-damp = 5; %30
+Spring_1_J3=500.25
+Damper_1_J3=0.67
+Spring_J3_across=35089
+Damper_J3_across=0.67
+
+Spring_1_J4=784
+Damper_1_J4=0.10
+Spring_J4_across=43916
+Damper_J4_across=0.66
+
+Spring_1_J5=738
+Damper_1_J5=0.12
+Spring_J5_across=2000
+Damper_J5_across=0.09
+
+Spring_1_J6=591
+Damper_1_J6=0.39
+Spring_J6_across=2001
+Damper_J6_across=0.60
+
 %Seitenzustellung 
 ae_max=0.5;             % mm
+
 %Tiefenzustellung
 ap=0.5;               % mm
+
 %Aus Creo Material Alu-Allgemein
 dichte_alu = 2700;  % kgcs/m³
+
+%Zusatzparameter aus Messung
+lang_bohrer = 54; % mm
+
